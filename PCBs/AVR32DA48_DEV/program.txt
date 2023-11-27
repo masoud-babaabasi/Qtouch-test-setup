@@ -1,0 +1,1 @@
+python prog.py -a write -d avr32da48 --fuses 5:0xc9 6:0x04 7:0x00 8:0x00 2:0x00 -f C:\Users\masou\AppData\Local\Temp\arduino_build_320009\avr32da48test.ino.hex -u UART --uart COM6

@@ -1,0 +1,47 @@
+Board Information Report
+Filename     : D:\Masoud\AVR32DA48_DEV\QTouch_test1.PcbDoc
+Date         : 2022-09-17
+Time         : 9:44:25 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 145mmx145mm
+    Components on board, 121
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 219
+    Connections routed, 219
+    Connections remaining, 0
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+    0mm, 48, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mm, 290, 0
+    0.4mm, 0, 127
+    0.5mm, 0, 54
+    0.7mm, 2, 0
+    0.9mm, 3, 0
+    0.93mm, 6, 0
+    1mm, 2, 0
+    1.016mm, 12, 0
+    1.38mm, 2, 0
+    3.5mm, 4, 0
+count : 10
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Net Via Size, Count
+    1.27mm, 116
+count : 1

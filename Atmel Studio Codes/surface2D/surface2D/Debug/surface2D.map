@@ -1,0 +1,1245 @@
+Archive member included to satisfy reference by file (symbol)
+
+../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+                              qtouch/touch.o (qtm_update_qtlib_timer)
+../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+                              qtouch/datastreamer/kronocommuart.o (qtm_gestures_2d_clearGesture)
+../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+                              qtouch/touch.o (qtm_surface_cs2t_process)
+../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+                              qtouch/touch.o (qtm_acquisition_process)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+                              qtouch/datastreamer/kronocommadaptor.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_clear_bss.o)
+                              examples/src/touch_example.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_umulhisi3.o)
+                              qtouch/touch.o (__umulhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_ashrdi3.o)
+                              ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o) (__lshrdi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_cmpdi2_s8.o)
+                              ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o) (__cmpdi2_s8)
+
+Allocating common symbols
+Common symbol       size              file
+
+read_buf_write_ptr  0x1               qtouch/datastreamer/kronocommuart.o
+qtm_surface_cs_data1
+                    0x1               qtouch/touch.o
+qtlib_key_grp_data_set1
+                    0x6               qtouch/touch.o
+timer               0x2               ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+write_buf_read_ptr  0x1               qtouch/datastreamer/kronocommuart.o
+uart_command_info   0x6               qtouch/datastreamer/kronocommuart.o
+cfgRam              0x2               ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+qtm_acquisition_control_working_set_ptr
+                    0x2               ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+interrupt_cnt       0x1               qtouch/touch.o
+ptc_qtlib_node_stat1
+                    0x1e              qtouch/touch.o
+write_buf_write_ptr
+                    0x1               qtouch/datastreamer/kronocommuart.o
+touch_acq_signals_raw
+                    0xc               qtouch/touch.o
+qtm_surface_contacts
+                    0x16              qtouch/touch.o
+qtm_gestures_2d_data
+                    0x3               qtouch/touch.o
+read_buffer         0x14              qtouch/datastreamer/kronocommuart.o
+read_buf_read_ptr   0x1               qtouch/datastreamer/kronocommuart.o
+qtlib_key_data_set1
+                    0x24              qtouch/touch.o
+qtm_raw_data_measurements_ptr
+                    0x2               ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+write_buffer        0x64              qtouch/datastreamer/kronocommuart.o
+uart_tx_in_progress
+                    0x1               qtouch/datastreamer/kronocommuart.o
+uart_runtime_data   0x2d              qtouch/datastreamer/kronocommuart.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o
+ .text          0x00000000        0x0 atmel_start.o
+ .data          0x00000000        0x0 atmel_start.o
+ .bss           0x00000000        0x0 atmel_start.o
+ .text          0x00000000        0x0 driver_isr.o
+ .data          0x00000000        0x0 driver_isr.o
+ .bss           0x00000000        0x0 driver_isr.o
+ .text          0x00000000        0x0 examples/src/touch_example.o
+ .data          0x00000000        0x0 examples/src/touch_example.o
+ .bss           0x00000000        0x0 examples/src/touch_example.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 qtouch/datastreamer/kronocommadaptor.o
+ .data          0x00000000        0x0 qtouch/datastreamer/kronocommadaptor.o
+ .bss           0x00000000        0x0 qtouch/datastreamer/kronocommadaptor.o
+ .text.isPowerOfTwo
+                0x00000000       0x24 qtouch/datastreamer/kronocommadaptor.o
+ .text.InitIRQPin
+                0x00000000        0x2 qtouch/datastreamer/kronocommadaptor.o
+ .text.SetIRQPin
+                0x00000000        0x2 qtouch/datastreamer/kronocommadaptor.o
+ .text.ClearIRQPin
+                0x00000000        0x2 qtouch/datastreamer/kronocommadaptor.o
+ .text          0x00000000        0x0 qtouch/datastreamer/kronocommuart.o
+ .data          0x00000000        0x0 qtouch/datastreamer/kronocommuart.o
+ .bss           0x00000000        0x0 qtouch/datastreamer/kronocommuart.o
+ .bss.transmit_completed
+                0x00000000        0x1 qtouch/datastreamer/kronocommuart.o
+ .text          0x00000000        0x0 qtouch/touch.o
+ .data          0x00000000        0x0 qtouch/touch.o
+ .bss           0x00000000        0x0 qtouch/touch.o
+ .text.get_sensor_node_signal
+                0x00000000       0x1a qtouch/touch.o
+ .text.update_sensor_node_signal
+                0x00000000       0x1a qtouch/touch.o
+ .text.get_sensor_node_reference
+                0x00000000       0x1a qtouch/touch.o
+ .text.update_sensor_node_reference
+                0x00000000       0x1a qtouch/touch.o
+ .text.get_sensor_cc_val
+                0x00000000       0x1a qtouch/touch.o
+ .text.update_sensor_cc_val
+                0x00000000       0x1a qtouch/touch.o
+ .text.update_sensor_state
+                0x00000000       0x1e qtouch/touch.o
+ .text.calibrate_node
+                0x00000000       0x32 qtouch/touch.o
+ .text.get_surface_status
+                0x00000000        0xc qtouch/touch.o
+ .text.get_surface_position
+                0x00000000       0x30 qtouch/touch.o
+ .text          0x00000000        0x0 src/bod.o
+ .data          0x00000000        0x0 src/bod.o
+ .bss           0x00000000        0x0 src/bod.o
+ .text          0x00000000        0x0 src/clkctrl.o
+ .data          0x00000000        0x0 src/clkctrl.o
+ .bss           0x00000000        0x0 src/clkctrl.o
+ .text          0x00000000        0x0 src/cpuint.o
+ .data          0x00000000        0x0 src/cpuint.o
+ .bss           0x00000000        0x0 src/cpuint.o
+ .text          0x00000000        0x0 src/driver_init.o
+ .data          0x00000000        0x0 src/driver_init.o
+ .bss           0x00000000        0x0 src/driver_init.o
+ .text          0x00000000        0x0 src/protected_io.o
+ .data          0x00000000        0x0 src/protected_io.o
+ .bss           0x00000000        0x0 src/protected_io.o
+ .text          0x00000000        0x0 src/rtc.o
+ .data          0x00000000        0x0 src/rtc.o
+ .bss           0x00000000        0x0 src/rtc.o
+ .text          0x00000000        0x0 src/slpctrl.o
+ .data          0x00000000        0x0 src/slpctrl.o
+ .bss           0x00000000        0x0 src/slpctrl.o
+ .text.SLPCTRL_set_sleep_mode
+                0x00000000       0x10 src/slpctrl.o
+ .text          0x00000000        0x0 src/usart.o
+ .data          0x00000000        0x0 src/usart.o
+ .bss           0x00000000        0x0 src/usart.o
+ .text          0x00000000        0x0 ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+ .data          0x00000000        0x0 ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+ .bss           0x00000000        0x0 ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+ .text.qtm_key_suspend
+                0x00000000       0x4e ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+ .text.qtm_key_resume
+                0x00000000       0x4e ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+ .text.qtm_get_touch_keys_module_id
+                0x00000000        0x6 ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+ .text.qtm_get_touch_keys_module_ver
+                0x00000000        0x4 ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+ .text          0x00000000        0x0 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .data          0x00000000        0x0 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss           0x00000000        0x0 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .text.Gestures_QueryValue
+                0x00000000        0x6 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .text.Gestures_QueryDiag
+                0x00000000        0x6 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .text.qtm_get_gesture_2d_module_id
+                0x00000000        0x6 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .text.qtm_get_gesture_2d_module_ver
+                0x00000000        0x4 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .text          0x00000000        0x0 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .data          0x00000000        0x0 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .bss           0x00000000        0x0 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .text.qtm_get_surface_cs2t_module_id
+                0x00000000        0x6 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .text.qtm_get_surface_cs2t_module_ver
+                0x00000000        0x4 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .text          0x00000000        0x0 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .data          0x00000000        0x0 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .bss           0x00000000        0x0 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .text.qtm_autoscan_sensor_node
+                0x00000000      0x110 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .text.qtm_autoscan_node_cancel
+                0x00000000       0x1e ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .text.qtm_ptc_de_init
+                0x00000000        0x6 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .text.qtm_avr_da_acq_module_get_id
+                0x00000000        0x6 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .text.qtm_avr_da_acq_module_get_version
+                0x00000000        0x4 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_ashrdi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_ashrdi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_ashrdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_ashrdi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_ashrdi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_ashrdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_ashrdi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_cmpdi2_s8.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_cmpdi2_s8.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_cmpdi2_s8.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00802000         0x00004000         rw !x
+eeprom           0x00810000         0x00000200         rw !x
+fuse             0x00820000         0x00000010         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x804000
+                0x00008000                __RODATA_PM_OFFSET__ = 0x8000
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o
+LOAD atmel_start.o
+LOAD driver_isr.o
+LOAD examples/src/touch_example.o
+LOAD main.o
+LOAD qtouch/datastreamer/kronocommadaptor.o
+LOAD qtouch/datastreamer/kronocommuart.o
+LOAD qtouch/touch.o
+LOAD src/bod.o
+LOAD src/clkctrl.o
+LOAD src/cpuint.o
+LOAD src/driver_init.o
+LOAD src/protected_io.o
+LOAD src/rtc.o
+LOAD src/slpctrl.o
+LOAD src/usart.o
+START GROUP
+LOAD ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a
+LOAD ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a
+LOAD ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a
+LOAD ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4\libavr128da48.a
+END GROUP
+                [0x00020000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x00004000]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000200]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000010]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x403a
+ *(.vectors)
+ .vectors       0x00000000       0xe8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000000e8                . = ALIGN (0x2)
+                0x000000e8                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000e8        0x0 linker stubs
+ *(.trampolines*)
+                0x000000e8                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x000000e8                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000e8                __ctors_start = .
+ *(.ctors)
+                0x000000e8                __ctors_end = .
+                0x000000e8                __dtors_start = .
+ *(.dtors)
+                0x000000e8                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000e8        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o
+                0x000000e8                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000e8        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000f4       0x1a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+                0x000000f4                __do_copy_data
+ .init4         0x0000010e       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_clear_bss.o)
+                0x0000010e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000011e        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o
+ *(.init9)
+ *(.text)
+ .text          0x00000126        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o
+                0x00000126                __vector_38
+                0x00000126                __vector_22
+                0x00000126                __vector_28
+                0x00000126                __vector_1
+                0x00000126                __vector_32
+                0x00000126                __vector_34
+                0x00000126                __vector_24
+                0x00000126                __vector_12
+                0x00000126                __vector_55
+                0x00000126                __vector_46
+                0x00000126                __bad_interrupt
+                0x00000126                __vector_6
+                0x00000126                __vector_35
+                0x00000126                __vector_39
+                0x00000126                __vector_23
+                0x00000126                __vector_30
+                0x00000126                __vector_45
+                0x00000126                __vector_25
+                0x00000126                __vector_11
+                0x00000126                __vector_54
+                0x00000126                __vector_13
+                0x00000126                __vector_17
+                0x00000126                __vector_19
+                0x00000126                __vector_56
+                0x00000126                __vector_7
+                0x00000126                __vector_49
+                0x00000126                __vector_41
+                0x00000126                __vector_43
+                0x00000126                __vector_5
+                0x00000126                __vector_47
+                0x00000126                __vector_52
+                0x00000126                __vector_37
+                0x00000126                __vector_4
+                0x00000126                __vector_44
+                0x00000126                __vector_51
+                0x00000126                __vector_9
+                0x00000126                __vector_2
+                0x00000126                __vector_21
+                0x00000126                __vector_15
+                0x00000126                __vector_36
+                0x00000126                __vector_29
+                0x00000126                __vector_40
+                0x00000126                __vector_8
+                0x00000126                __vector_26
+                0x00000126                __vector_48
+                0x00000126                __vector_14
+                0x00000126                __vector_57
+                0x00000126                __vector_53
+                0x00000126                __vector_10
+                0x00000126                __vector_50
+                0x00000126                __vector_16
+                0x00000126                __vector_18
+                0x00000126                __vector_20
+                0x00000126                __vector_42
+                0x0000012a                . = ALIGN (0x2)
+ *(.text.*)
+ .text.atmel_start_init
+                0x0000012a        0xa atmel_start.o
+                0x0000012a                atmel_start_init
+ .text.__vector_31
+                0x00000134       0x50 driver_isr.o
+                0x00000134                __vector_31
+ .text.__vector_33
+                0x00000184       0x50 driver_isr.o
+                0x00000184                __vector_33
+ .text.__vector_3
+                0x000001d4       0x56 driver_isr.o
+                0x000001d4                __vector_3
+ .text.touch_status_display
+                0x0000022a       0x56 examples/src/touch_example.o
+                0x0000022a                touch_status_display
+ .text.touch_example
+                0x00000280       0x16 examples/src/touch_example.o
+                0x00000280                touch_example
+ .text.main     0x00000296        0xa main.o
+                0x00000296                main
+ .text.Krono_UpdateBuffer
+                0x000002a0      0x38e qtouch/datastreamer/kronocommadaptor.o
+                0x000002a0                Krono_UpdateBuffer
+ .text.Krono_memory_map_read
+                0x0000062e       0xaa qtouch/datastreamer/kronocommadaptor.o
+                0x0000062e                Krono_memory_map_read
+ .text.Krono_memory_map_write
+                0x000006d8       0x40 qtouch/datastreamer/kronocommadaptor.o
+                0x000006d8                Krono_memory_map_write
+ .text.uart_get_char
+                0x00000718       0x20 qtouch/datastreamer/kronocommuart.o
+                0x00000718                uart_get_char
+ .text.uart_send_data_wait
+                0x00000738       0x14 qtouch/datastreamer/kronocommuart.o
+                0x00000738                uart_send_data_wait
+ .text.uart_send_data
+                0x0000074c       0x1c qtouch/datastreamer/kronocommuart.o
+                0x0000074c                uart_send_data
+ .text.uart_init_debug_data
+                0x00000768       0x40 qtouch/datastreamer/kronocommuart.o
+                0x00000768                uart_init_debug_data
+ .text.uart_send_touch_gesture_data
+                0x000007a8       0x9a qtouch/datastreamer/kronocommuart.o
+                0x000007a8                uart_send_touch_gesture_data
+ .text.uart_min_num_bytes_received
+                0x00000842       0x16 qtouch/datastreamer/kronocommuart.o
+                0x00000842                uart_min_num_bytes_received
+ .text.uart_send_header
+                0x00000858       0x46 qtouch/datastreamer/kronocommuart.o
+                0x00000858                uart_send_header
+ .text.uart_process
+                0x0000089e      0x170 qtouch/datastreamer/kronocommuart.o
+                0x0000089e                uart_process
+ .text.krono_tx_complete_callback
+                0x00000a0e       0x3c qtouch/datastreamer/kronocommuart.o
+                0x00000a0e                krono_tx_complete_callback
+ .text.krono_rx_complete_callback
+                0x00000a4a       0x24 qtouch/datastreamer/kronocommuart.o
+                0x00000a4a                krono_rx_complete_callback
+ .text.qtm_measure_complete_callback
+                0x00000a6e        0x8 qtouch/touch.o
+ .text.Timer_set_period
+                0x00000a76       0x16 qtouch/touch.o
+                0x00000a76                Timer_set_period
+ .text.touch_init
+                0x00000a8c       0xdc qtouch/touch.o
+                0x00000a8c                touch_init
+ .text.touch_process
+                0x00000b68       0x98 qtouch/touch.o
+                0x00000b68                touch_process
+ .text.touch_timer_handler
+                0x00000c00       0xa6 qtouch/touch.o
+                0x00000c00                touch_timer_handler
+ .text.get_sensor_state
+                0x00000ca6       0x1e qtouch/touch.o
+                0x00000ca6                get_sensor_state
+ .text.__vector_27
+                0x00000cc4       0x50 qtouch/touch.o
+                0x00000cc4                __vector_27
+ .text.BOD_init
+                0x00000d14        0x8 src/bod.o
+                0x00000d14                BOD_init
+ .text.CLKCTRL_init
+                0x00000d1c       0x10 src/clkctrl.o
+                0x00000d1c                CLKCTRL_init
+ .text.CPUINT_init
+                0x00000d2c        0x6 src/cpuint.o
+                0x00000d2c                CPUINT_init
+ .text.mcu_init
+                0x00000d32       0x6e src/driver_init.o
+                0x00000d32                mcu_init
+ .text.USART_initialization
+                0x00000da0       0x16 src/driver_init.o
+                0x00000da0                USART_initialization
+ .text.system_init
+                0x00000db6       0x1e src/driver_init.o
+                0x00000db6                system_init
+ .text.protected_write_io
+                0x00000dd4        0xa src/protected_io.o
+                0x00000dd4                protected_write_io
+ .text.Timer_init
+                0x00000dde       0x1c src/rtc.o
+                0x00000dde                Timer_init
+ .text.SLPCTRL_init
+                0x00000dfa        0x4 src/slpctrl.o
+                0x00000dfa                SLPCTRL_init
+ .text.USART_init
+                0x00000dfe       0x16 src/usart.o
+                0x00000dfe                USART_init
+ .text.check_for_aks_block
+                0x00000e14       0xd2 ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+ .text.qtm_update_qtlib_timer
+                0x00000ee6       0x16 ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+                0x00000ee6                qtm_update_qtlib_timer
+ .text.qtm_init_sensor_key
+                0x00000efc       0x3e ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+                0x00000efc                qtm_init_sensor_key
+ .text.qtm_key_sensors_process
+                0x00000f3a      0x74e ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+                0x00000f3a                qtm_key_sensors_process
+ .text.getSwipeDirection
+                0x00001688       0x66 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .text.appendEvent
+                0x000016ee      0x318 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .text.Gestures_QueryStatus
+                0x00001a06        0xe ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+                0x00001a06                Gestures_QueryStatus
+ .text.qtm_gestures_2d_clearGesture
+                0x00001a14        0xa ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+                0x00001a14                qtm_gestures_2d_clearGesture
+ .text.qtm_init_gestures_2d
+                0x00001a1e       0x2c ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+                0x00001a1e                qtm_init_gestures_2d
+ .text.qtm_update_gesture_2d_timer
+                0x00001a4a       0x1a ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+                0x00001a4a                qtm_update_gesture_2d_timer
+ .text.qtm_gestures_2d_process
+                0x00001a64      0x616 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+                0x00001a64                qtm_gestures_2d_process
+ .text.divide   0x0000207a       0x50 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .text.median_filter_update
+                0x000020ca       0x6e ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .text.get_key_delta
+                0x00002138       0x32 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .text.get_axis_contact_size
+                0x0000216a       0xaa ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .text.filter_position_iir
+                0x00002214       0x62 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .text.check_for_twin_peaks.isra.1
+                0x00002276       0xc0 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .text.deadband_and_scale
+                0x00002336       0x74 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+                0x00002336                deadband_and_scale
+ .text.get_interpolated_position.isra.2
+                0x000023aa      0x168 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .text.qtm_surface_cs2t_process
+                0x00002512      0xdec ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+                0x00002512                qtm_surface_cs2t_process
+ .text.qtm_init_surface_cs2t
+                0x000032fe       0x46 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+                0x000032fe                qtm_init_surface_cs2t
+ .text.charge_share_test
+                0x00003344       0x90 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .text.select_next_channel_to_measure
+                0x000033d4       0x66 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .text.qtm_measure_node
+                0x0000343a      0x22a ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .text.qtm_acquisition_process
+                0x00003664      0x504 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+                0x00003664                qtm_acquisition_process
+ .text.qtm_ptc_init_acquisition_module
+                0x00003b68      0x16e ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+                0x00003b68                qtm_ptc_init_acquisition_module
+ .text.qtm_ptc_qtlib_assign_signal_memory
+                0x00003cd6       0x14 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+                0x00003cd6                qtm_ptc_qtlib_assign_signal_memory
+ .text.qtm_ptc_start_measurement_seq
+                0x00003cea       0xe0 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+                0x00003cea                qtm_ptc_start_measurement_seq
+ .text.qtm_enable_sensor_node
+                0x00003dca       0x3e ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+                0x00003dca                qtm_enable_sensor_node
+ .text.qtm_calibrate_sensor_node
+                0x00003e08       0x82 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+                0x00003e08                qtm_calibrate_sensor_node
+ .text.qtm_avr_da_ptc_handler_wcomp
+                0x00003e8a       0x8c ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+                0x00003e8a                qtm_avr_da_ptc_handler_wcomp
+ .text.qtm_avr_da_ptc_handler_eoc
+                0x00003f16       0xae ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+                0x00003f16                qtm_avr_da_ptc_handler_eoc
+ .text.libgcc.mul
+                0x00003fc4       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_umulhisi3.o)
+                0x00003fc4                __umulhisi3
+ .text.libgcc.builtins
+                0x00003fe2       0x3c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_ashrdi3.o)
+                0x00003fe2                __ashrdi3
+                0x00003fe6                __lshrdi3
+ .text.libgcc   0x0000401e       0x18 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_cmpdi2_s8.o)
+                0x0000401e                __cmpdi2_s8
+                0x00004036                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00004036        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+                0x00004036                _exit
+                0x00004036                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00004036        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000403a                _etext = .
+
+.data           0x00804000      0x234 load address 0x0000403a
+                0x00804000                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.coreRam  0x00804000        0x8 qtouch/datastreamer/kronocommadaptor.o
+ .data.gestureCfgRam
+                0x00804008        0xe qtouch/datastreamer/kronocommadaptor.o
+ .data.cfgRam   0x00804016        0xa qtouch/datastreamer/kronocommadaptor.o
+ .data.uart_send_ges_data_flag
+                0x00804020        0x1 qtouch/datastreamer/kronocommuart.o
+                0x00804020                uart_send_ges_data_flag
+ .data.qtm_gestures_2d_control1
+                0x00804021        0x4 qtouch/touch.o
+                0x00804021                qtm_gestures_2d_control1
+ .data.qtm_gestures_2d_config
+                0x00804025       0x1a qtouch/touch.o
+                0x00804025                qtm_gestures_2d_config
+ .data.qtm_surface_cs_control1
+                0x0080403f        0x6 qtouch/touch.o
+                0x0080403f                qtm_surface_cs_control1
+ .data.qtm_surface_cs_config1
+                0x00804045        0xd qtouch/touch.o
+                0x00804045                qtm_surface_cs_config1
+ .data.qtlib_key_set1
+                0x00804052        0x8 qtouch/touch.o
+                0x00804052                qtlib_key_set1
+ .data.qtlib_key_configs_set1
+                0x0080405a       0x12 qtouch/touch.o
+                0x0080405a                qtlib_key_configs_set1
+ .data.qtlib_key_grp_config_set1
+                0x0080406c        0xa qtouch/touch.o
+                0x0080406c                qtlib_key_grp_config_set1
+ .data.qtlib_acq_set1
+                0x00804076        0x6 qtouch/touch.o
+                0x00804076                qtlib_acq_set1
+ .data.ptc_seq_node_cfg1
+                0x0080407c       0x78 qtouch/touch.o
+                0x0080407c                ptc_seq_node_cfg1
+ .data.ptc_qtlib_acq_gen1
+                0x008040f4        0x5 qtouch/touch.o
+                0x008040f4                ptc_qtlib_acq_gen1
+ .data.lastEventDir.1954
+                0x008040f9        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .data.first_time.1959
+                0x008040fa        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .data.qtm_which_mode_current
+                0x008040fb        0x1 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+                0x008040fb                qtm_which_mode_current
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.GESTURE_EVENTS
+                0x008040fc       0xdc ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+                0x008040fc                GESTURE_EVENTS
+ .rodata.stateTable
+                0x008041d8       0x10 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+                0x008041d8                stateTable
+ .rodata.multipliers_tau_calc
+                0x008041e8        0x8 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .rodata.gain_setting_int_cap
+                0x008041f0        0x5 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .rodata.port_array
+                0x008041f5        0xe ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .rodata.PTC_XY_PINS
+                0x00804203       0x30 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ *(.gnu.linkonce.r*)
+                0x00804234                . = ALIGN (0x2)
+ *fill*         0x00804233        0x1 
+                0x00804234                _edata = .
+                0x00804234                PROVIDE (__data_end, .)
+
+.bss            0x00804234      0x1bd
+                0x00804234                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.key_status
+                0x00804234        0x1 examples/src/touch_example.o
+                0x00804234                key_status
+ .bss.previousSurfaceStatus.5132
+                0x00804235        0x1 qtouch/datastreamer/kronocommadaptor.o
+ .bss.frameCount.5131
+                0x00804236        0x1 qtouch/datastreamer/kronocommadaptor.o
+ .bss.initialized.5130
+                0x00804237        0x1 qtouch/datastreamer/kronocommadaptor.o
+ .bss.touchRef  0x00804238        0xc qtouch/datastreamer/kronocommadaptor.o
+ .bss.touchRaw  0x00804244        0xc qtouch/datastreamer/kronocommadaptor.o
+ .bss.touchDelta
+                0x00804250        0x6 qtouch/datastreamer/kronocommadaptor.o
+ .bss.touchRam  0x00804256        0x6 qtouch/datastreamer/kronocommadaptor.o
+ .bss.writeback_req
+                0x0080425c        0x1 qtouch/datastreamer/kronocommadaptor.o
+ .bss.uart_tx_len
+                0x0080425d        0x1 qtouch/datastreamer/kronocommuart.o
+                0x0080425d                uart_tx_len
+ .bss.uart_new_data_available
+                0x0080425e        0x1 qtouch/datastreamer/kronocommuart.o
+                0x0080425e                uart_new_data_available
+ .bss.touch_gesture_time_cnt
+                0x0080425f        0x2 qtouch/touch.o
+ .bss.module_error_code
+                0x00804261        0x1 qtouch/touch.o
+                0x00804261                module_error_code
+ .bss.measurement_done_touch
+                0x00804262        0x1 qtouch/touch.o
+                0x00804262                measurement_done_touch
+ .bss.touch_postprocess_request
+                0x00804263        0x1 qtouch/touch.o
+                0x00804263                touch_postprocess_request
+ .bss.time_to_measure_touch_flag
+                0x00804264        0x1 qtouch/touch.o
+                0x00804264                time_to_measure_touch_flag
+ .bss.qtm_local_ms_timecount
+                0x00804265        0x2 ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+                0x00804265                qtm_local_ms_timecount
+ .bss.wheelOutputCounter.1958
+                0x00804267        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.wheelCount.1957
+                0x00804268        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.wheelStart.1955
+                0x00804269        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.quadrant_count.1953
+                0x0080426a        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.wheelDir.1956
+                0x0080426b        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.previousFingerDistance.1907
+                0x0080426c        0x2 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.increment.1908
+                0x0080426e        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.last_contact_status.1901
+                0x0080426f        0x2 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.tapThreshExceeded.1917
+                0x00804271        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.swipeCounter.1916
+                0x00804272        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.lastEvent.1915
+                0x00804273        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.y_position.1919
+                0x00804274        0x2 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.x_position.1918
+                0x00804276        0x2 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.dualFingerGesture
+                0x00804278        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.timeouttrack
+                0x00804279        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.distanceTrackingStatus
+                0x0080427a        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.diag      0x0080427b        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.value     0x0080427c        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.status    0x0080427d        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.currentGesture
+                0x0080427e        0xb ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.eventQueue
+                0x00804289        0x4 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.eventCounter
+                0x0080428d        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.tapCount  0x0080428e        0x1 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.touchUp   0x0080428f        0x4 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.touchStream
+                0x00804293        0x4 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.touchDown
+                0x00804297        0x4 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .bss.v_extrapolated
+                0x0080429b        0x4 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .bss.h_extrapolated
+                0x0080429f        0x4 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .bss.v_history
+                0x008042a3        0x4 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .bss.h_history
+                0x008042a7        0x4 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .bss.median_filter_data_buffer
+                0x008042ab       0x18 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .bss.ptc_wcomp_happened_pointer
+                0x008042c3        0x2 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .bss.ptc_seq_measure_complete_pointer
+                0x008042c5        0x2 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .bss.touch_seq_lib_state
+                0x008042c7        0x1 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ .bss.current_measure_channel
+                0x008042c8        0x2 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+ *(COMMON)
+ COMMON         0x008042ca       0xb0 qtouch/datastreamer/kronocommuart.o
+                0x008042ca                read_buf_write_ptr
+                0x008042cb                write_buf_read_ptr
+                0x008042cc                uart_command_info
+                0x008042d2                write_buf_write_ptr
+                0x008042d3                read_buffer
+                0x008042e7                read_buf_read_ptr
+                0x008042e8                write_buffer
+                0x0080434c                uart_tx_in_progress
+                0x0080434d                uart_runtime_data
+ COMMON         0x0080437a       0x6f qtouch/touch.o
+                0x0080437a                qtm_surface_cs_data1
+                0x0080437b                qtlib_key_grp_data_set1
+                0x00804381                interrupt_cnt
+                0x00804382                ptc_qtlib_node_stat1
+                0x008043a0                touch_acq_signals_raw
+                0x008043ac                qtm_surface_contacts
+                0x008043c2                qtm_gestures_2d_data
+                0x008043c5                qtlib_key_data_set1
+ COMMON         0x008043e9        0x4 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+                0x008043e9                timer
+                0x008043eb                cfgRam
+ COMMON         0x008043ed        0x4 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+                0x008043ed                qtm_acquisition_control_working_set_ptr
+                0x008043ef                qtm_raw_data_measurements_ptr
+                0x008043f1                PROVIDE (__bss_end, .)
+                0x0000403a                __data_load_start = LOADADDR (.data)
+                0x0000426e                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008043f1        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008043f1                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 atmel_start.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 driver_isr.o
+ .comment       0x00000030       0x31 examples/src/touch_example.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 qtouch/datastreamer/kronocommadaptor.o
+ .comment       0x00000030       0x31 qtouch/datastreamer/kronocommuart.o
+ .comment       0x00000030       0x31 qtouch/touch.o
+ .comment       0x00000030       0x31 src/bod.o
+ .comment       0x00000030       0x31 src/clkctrl.o
+ .comment       0x00000030       0x31 src/cpuint.o
+ .comment       0x00000030       0x31 src/driver_init.o
+ .comment       0x00000030       0x31 src/rtc.o
+ .comment       0x00000030       0x31 src/slpctrl.o
+ .comment       0x00000030       0x31 src/usart.o
+ .comment       0x00000030       0x31 ../qtouch/lib/gcc\libqtm_touch_key_avr128da_0x0002.a(avr_touch_key_g_avr128da.o)
+ .comment       0x00000030       0x31 ../qtouch/lib/gcc\libqtm_surface_gestures_avr128da_0x0023.a(avr_surface_gestures_g_avr128da.o)
+ .comment       0x00000030       0x31 ../qtouch/lib/gcc\libqtm_surface_cs_2t_avr128da_0x0025.a(avr_surface_cs_2t_g_avr128da.o)
+ .comment       0x00000030       0x31 ../qtouch/lib/gcc\libqtm_acq_avr128da_0x0037.a(avr_acq_g_avr128da.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x308
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 atmel_start.o
+ .debug_aranges
+                0x00000020       0x30 driver_isr.o
+ .debug_aranges
+                0x00000050       0x28 examples/src/touch_example.o
+ .debug_aranges
+                0x00000078       0x20 main.o
+ .debug_aranges
+                0x00000098       0x50 qtouch/datastreamer/kronocommadaptor.o
+ .debug_aranges
+                0x000000e8       0x68 qtouch/datastreamer/kronocommuart.o
+ .debug_aranges
+                0x00000150       0xa0 qtouch/touch.o
+ .debug_aranges
+                0x000001f0       0x20 src/bod.o
+ .debug_aranges
+                0x00000210       0x20 src/clkctrl.o
+ .debug_aranges
+                0x00000230       0x20 src/cpuint.o
+ .debug_aranges
+                0x00000250       0x30 src/driver_init.o
+ .debug_aranges
+                0x00000280       0x20 src/protected_io.o
+ .debug_aranges
+                0x000002a0       0x20 src/rtc.o
+ .debug_aranges
+                0x000002c0       0x28 src/slpctrl.o
+ .debug_aranges
+                0x000002e8       0x20 src/usart.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x785c
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x3227 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o
+ .debug_info    0x00003227       0xb0 atmel_start.o
+ .debug_info    0x000032d7      0x395 driver_isr.o
+ .debug_info    0x0000366c      0x186 examples/src/touch_example.o
+ .debug_info    0x000037f2       0xd6 main.o
+ .debug_info    0x000038c8      0x9b6 qtouch/datastreamer/kronocommadaptor.o
+ .debug_info    0x0000427e      0x896 qtouch/datastreamer/kronocommuart.o
+ .debug_info    0x00004b14     0x1aa5 qtouch/touch.o
+ .debug_info    0x000065b9      0x188 src/bod.o
+ .debug_info    0x00006741      0x286 src/clkctrl.o
+ .debug_info    0x000069c7       0x8d src/cpuint.o
+ .debug_info    0x00006a54      0x67a src/driver_init.o
+ .debug_info    0x000070ce       0x78 src/protected_io.o
+ .debug_info    0x00007146      0x389 src/rtc.o
+ .debug_info    0x000074cf      0x136 src/slpctrl.o
+ .debug_info    0x00007605      0x257 src/usart.o
+
+.debug_abbrev   0x00000000     0x3f97
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000     0x2f80 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o
+ .debug_abbrev  0x00002f80       0x63 atmel_start.o
+ .debug_abbrev  0x00002fe3      0x103 driver_isr.o
+ .debug_abbrev  0x000030e6       0xbd examples/src/touch_example.o
+ .debug_abbrev  0x000031a3       0x8b main.o
+ .debug_abbrev  0x0000322e      0x1b4 qtouch/datastreamer/kronocommadaptor.o
+ .debug_abbrev  0x000033e2      0x235 qtouch/datastreamer/kronocommuart.o
+ .debug_abbrev  0x00003617      0x33c qtouch/touch.o
+ .debug_abbrev  0x00003953       0xaf src/bod.o
+ .debug_abbrev  0x00003a02      0x117 src/clkctrl.o
+ .debug_abbrev  0x00003b19       0x51 src/cpuint.o
+ .debug_abbrev  0x00003b6a      0x189 src/driver_init.o
+ .debug_abbrev  0x00003cf3       0x14 src/protected_io.o
+ .debug_abbrev  0x00003d07       0xe6 src/rtc.o
+ .debug_abbrev  0x00003ded       0xc4 src/slpctrl.o
+ .debug_abbrev  0x00003eb1       0xe6 src/usart.o
+
+.debug_line     0x00000000     0x1dfd
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x1f3 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o
+ .debug_line    0x000001f3       0x8b atmel_start.o
+ .debug_line    0x0000027e      0x150 driver_isr.o
+ .debug_line    0x000003ce      0x121 examples/src/touch_example.o
+ .debug_line    0x000004ef       0x5b main.o
+ .debug_line    0x0000054a      0x50d qtouch/datastreamer/kronocommadaptor.o
+ .debug_line    0x00000a57      0x54f qtouch/datastreamer/kronocommuart.o
+ .debug_line    0x00000fa6      0x526 qtouch/touch.o
+ .debug_line    0x000014cc      0x10d src/bod.o
+ .debug_line    0x000015d9      0x13b src/clkctrl.o
+ .debug_line    0x00001714       0xab src/cpuint.o
+ .debug_line    0x000017bf      0x27c src/driver_init.o
+ .debug_line    0x00001a3b       0x5b src/protected_io.o
+ .debug_line    0x00001a96      0x12b src/rtc.o
+ .debug_line    0x00001bc1      0x121 src/slpctrl.o
+ .debug_line    0x00001ce2      0x11b src/usart.o
+
+.debug_frame    0x00000000      0x5e4
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x24 atmel_start.o
+ .debug_frame   0x00000024      0x11c driver_isr.o
+ .debug_frame   0x00000140       0x34 examples/src/touch_example.o
+ .debug_frame   0x00000174       0x24 main.o
+ .debug_frame   0x00000198       0x98 qtouch/datastreamer/kronocommadaptor.o
+ .debug_frame   0x00000230       0xfc qtouch/datastreamer/kronocommuart.o
+ .debug_frame   0x0000032c      0x18c qtouch/touch.o
+ .debug_frame   0x000004b8       0x24 src/bod.o
+ .debug_frame   0x000004dc       0x24 src/clkctrl.o
+ .debug_frame   0x00000500       0x24 src/cpuint.o
+ .debug_frame   0x00000524       0x44 src/driver_init.o
+ .debug_frame   0x00000568       0x24 src/rtc.o
+ .debug_frame   0x0000058c       0x34 src/slpctrl.o
+ .debug_frame   0x000005c0       0x24 src/usart.o
+
+.debug_str      0x00000000     0x38f3
+ *(.debug_str)
+ .debug_str     0x00000000     0x153f C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/AVR-Dx_DFP/2.1.146/gcc/dev/avr128da48/avrxmega4/crtavr128da48.o
+ .debug_str     0x0000153f      0x163 atmel_start.o
+                                0x197 (size before relaxing)
+ .debug_str     0x000016a2      0x140 driver_isr.o
+                                0x2c2 (size before relaxing)
+ .debug_str     0x000017e2       0x84 examples/src/touch_example.o
+                                0x1e8 (size before relaxing)
+ .debug_str     0x00001866       0x11 main.o
+                                0x18c (size before relaxing)
+ .debug_str     0x00001877      0xa25 qtouch/datastreamer/kronocommadaptor.o
+                                0xbb1 (size before relaxing)
+ .debug_str     0x0000229c      0x294 qtouch/datastreamer/kronocommuart.o
+                                0x631 (size before relaxing)
+ .debug_str     0x00002530      0xdbc qtouch/touch.o
+                               0x1802 (size before relaxing)
+ .debug_str     0x000032ec       0x7e src/bod.o
+                                0x22f (size before relaxing)
+ .debug_str     0x0000336a       0xe1 src/clkctrl.o
+                                0x290 (size before relaxing)
+ .debug_str     0x0000344b       0x1c src/cpuint.o
+                                0x17f (size before relaxing)
+ .debug_str     0x00003467      0x116 src/driver_init.o
+                                0x3d4 (size before relaxing)
+ .debug_str     0x0000357d      0x201 src/rtc.o
+                                0x456 (size before relaxing)
+ .debug_str     0x0000377e       0xb9 src/slpctrl.o
+                                0x243 (size before relaxing)
+ .debug_str     0x00003837       0xbc src/usart.o
+                                0x2e5 (size before relaxing)
+
+.debug_loc      0x00000000     0x12b2
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x261 driver_isr.o
+ .debug_loc     0x00000261      0x483 qtouch/datastreamer/kronocommadaptor.o
+ .debug_loc     0x000006e4      0x3ae qtouch/datastreamer/kronocommuart.o
+ .debug_loc     0x00000a92      0x6bb qtouch/touch.o
+ .debug_loc     0x0000114d       0x2a src/clkctrl.o
+ .debug_loc     0x00001177      0x11a src/driver_init.o
+ .debug_loc     0x00001291       0x21 src/slpctrl.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x208
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x10 atmel_start.o
+ .debug_ranges  0x00000010       0x20 driver_isr.o
+ .debug_ranges  0x00000030       0x18 examples/src/touch_example.o
+ .debug_ranges  0x00000048       0x10 main.o
+ .debug_ranges  0x00000058       0x40 qtouch/datastreamer/kronocommadaptor.o
+ .debug_ranges  0x00000098       0x58 qtouch/datastreamer/kronocommuart.o
+ .debug_ranges  0x000000f0       0x90 qtouch/touch.o
+ .debug_ranges  0x00000180       0x10 src/bod.o
+ .debug_ranges  0x00000190       0x10 src/clkctrl.o
+ .debug_ranges  0x000001a0       0x10 src/cpuint.o
+ .debug_ranges  0x000001b0       0x20 src/driver_init.o
+ .debug_ranges  0x000001d0       0x10 src/rtc.o
+ .debug_ranges  0x000001e0       0x18 src/slpctrl.o
+ .debug_ranges  0x000001f8       0x10 src/usart.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(surface2D.elf elf32-avr)
+LOAD linker stubs
