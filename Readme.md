@@ -5,7 +5,7 @@ Two PCBs are designed using Altium Designer. The slider, wheels, and 2D surfaces
 
 ![altium components](./pics/qtouch_altium.jpg)
 
-After placing the component, right mouse clock on the component and select configure and a window like the picture below will pop up.
+After placing the component, right mouse click on the component and select configure and a window like the picture below will pop up.
 
 ![altium configure](./pics/qtouch_altium_configure.jpg)
 
